@@ -1,8 +1,8 @@
 from dtos import SLinkedList
 from dtos import Node
 from dtos import ListNode
-from Add_Two_Numbers import addTwoNumbers
-from Remove_Nth_Node_From_End_of_List import removeNthFromEnd
+from LeetCode_Problems.Add_Two_Numbers import addTwoNumbers
+from LeetCode_Problems.Add_Two_Numbers import removeNthFromEnd
 
 list1 = SLinkedList()
 list1.head = Node(1)
